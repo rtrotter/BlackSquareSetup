@@ -101,7 +101,7 @@ GEM
       multi_json (>= 1.0.2)
 
 PLATFORMS
-  unknown
+  ruby
   x86-mingw32
 
 DEPENDENCIES
